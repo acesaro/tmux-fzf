@@ -1,5 +1,3 @@
-![demo](https://gitlab.com/sainnhe/img/-/raw/master/tmux-fzf.gif)
-
 # Features
 
 - Manage sessions (switch, new, rename, detach, kill).
@@ -30,7 +28,7 @@
 Add this line to your `~/.tmux.conf`
 
 ```tmux
-set -g @plugin 'sainnhe/tmux-fzf'
+set -g @plugin 'acesaro/tmux-fzf'
 ```
 
 Reload configuration, then press `prefix` + `I` (Shift+I).
